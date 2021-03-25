@@ -3,6 +3,6 @@ public class MyClass {
         System.out.println("Hi");
         int x = 5;
         int y = 7;
-        int z = 3;
+        int z = 4;
     }
 }
